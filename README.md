@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/marques67">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marques67&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marques67&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marques67&layout=compact&langs_count=30&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -14,5 +14,5 @@
   ##
   
   <div>
-    <a href="www.linkedin.com/in/marques67" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/marques67/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
