@@ -1,4 +1,10 @@
 ### Hello world! Meu nome é Lucas Marques e seja bem-vindo(a) ao meu GitHub!
+<div>
+  <ul>
+    <li>💻 Dev back-end</li>
+    <li>📚 Formado em Sistemas de Informação pela Universidade Estácio de Sá!</li>
+  </ul>
+</div>
 
 <div>
   <a href="https://github.com/marques67">
