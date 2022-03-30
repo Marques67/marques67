@@ -1,4 +1,4 @@
-### Hello world! Meu nome é Lucas Marques
+### Hello world! Meu nome é Lucas Marques e seja bem-vindo(a) ao meu GitHub!
 
 <div>
   <a href="https://github.com/marques67">
