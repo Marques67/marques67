@@ -4,6 +4,7 @@
     <li>💻 Dev back-end</li>
     <li>⌨️ Eterno estudande de Java</li>
     <li>🎓 Formado em Sistemas de Informação pela Universidade Estácio de Sá!</li>
+    <li>🎓 Desenvolvedor com experiência em Java, Spring framework, Quarkus, Apache Camel, Apache Kafka, e OpenShift, Banco de Dados relacionais e não-relacionais</li>
   </ul>
 </div>
 
